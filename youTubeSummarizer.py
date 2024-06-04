@@ -5,6 +5,7 @@ import json
 import re
 from urllib.parse import urlparse, parse_qs
 
+
 st.title('YouTube Video Summarizer and Quiz Generator')
 st.write("We summarize the YouTube videos and generate quizzes for you so you don't have to.")
 
